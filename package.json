@@ -1,6 +1,7 @@
 {
   "name": "d-webhook",
-  "version": "1.0.1",
+  "version": "1.0.3",
+  "keywords": ["discord", "webhook", "discord-webhook"],
   "dependencies": {
     "node-fetch": "^2.6.1"
   }
