@@ -1,1 +1,7 @@
-{"dependencies":{"https-proxy-agent":"^5.0.0","node-fetch":"^2.6.1"}}
+{
+  "name": "d-webhook",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
