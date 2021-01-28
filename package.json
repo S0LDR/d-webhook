@@ -1,6 +1,6 @@
 {
   "name": "d-webhook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "node-fetch": "^2.6.1"
   }
